@@ -1,20 +1,20 @@
 /**************************************************************************************************/
 /* Copyright (C) mc2lab.com, SSE@USET, 2014-2015                                                  */
 /*                                                                                                */
-/*  FILE NAME             :  menu2_1.c                                                               */
+/*  FILE NAME             :  linklist.h                                                           */
 /*  PRINCIPAL AUTHOR      :  HuangZhiheng                                                         */
 /*  SUBSYSTEM NAME        :  menu                                                                 */
 /*  MODULE NAME           :  menu                                                                 */
 /*  LANGUAGE              :  C                                                                    */
 /*  TARGET ENVIRONMENT    :  ANY                                                                  */
-/*  DATE OF FIST RELEASE  :  2014/09/14                                                           */
-/*  DESCRIPTION           :  This is a menu program                                               */
+/*  DATE OF FIST RELEASE  :  2014/09/16                                                           */
+/*  DESCRIPTION           :  This is a file of link of menu                                       */
 /**************************************************************************************************/
 
 /*
  *Revision log:
- *This is the 4th version
- *Created by HuangZhiheng, 2014/09/14
+ *
+ *Created by HuangZhiheng, 2014/09/16
  *
  */
 
