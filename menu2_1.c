@@ -1,7 +1,7 @@
 /**************************************************************************************************/
 /* Copyright (C) mc2lab.com, SSE@USET, 2014-2015                                                  */
 /*                                                                                                */
-/*  FILE NAME             :  menu2_1.c                                                               */
+/*  FILE NAME             :  menu2_1.c                                                            */
 /*  PRINCIPAL AUTHOR      :  HuangZhiheng                                                         */
 /*  SUBSYSTEM NAME        :  menu                                                                 */
 /*  MODULE NAME           :  menu                                                                 */
